@@ -10,7 +10,7 @@ export const Bio = {
     github: "https://github.com/fazilalauddeen",
     resume:
       "https://drive.google.com/file/d/1RVpd57TOJkzvDhUx6kutZG1GXehkFLBg/view?usp=drivesdk",
-    linkedin: "https://www.linkedin.com/in/fazil-alauddeen",
+    linkedin: "https://www.linkedin.com/in/fazil-alauddeen-2b844b232?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   };
   
   export const skills = [
