@@ -46,6 +46,9 @@ function App() {
           
           </Wrapper>
           <Footer />
+  {openModal.state &&
+            <ProjectDetails openModal={openModal} setOpenModal={setOpenModal} />
+  }
          
         </Body>
       </Router>
