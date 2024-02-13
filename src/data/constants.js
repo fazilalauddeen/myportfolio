@@ -10,7 +10,7 @@ export const Bio = {
     github: "https://github.com",
     resume:
       "https://drive.google.com/file/d/1RVpd57TOJkzvDhUx6kutZG1GXehkFLBg/view?usp=drivesdk",
-    linkedin: "https://www.linkedin.com/fazil-alauddeen",
+    linkedin: "https://www.linkedin.com",
   };
   
   export const skills = [
