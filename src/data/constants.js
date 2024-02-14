@@ -131,7 +131,7 @@ export const Bio = {
       role: "Associate Engineer",
       company: "HTC Global Services",
       date: "Feb 2022 - Till Date",
-      desc: "Passionate Full Stack Developer expertise in creating scalable web applications, emphasizing frontend development with React JS and backend solutions using Spring Boot. Proven track record in delivering scalable solutions, collaborating with cross functional teams, and staying current with industry trends.",
+      desc: "Passionate Full Stack developer with 2 years of experience in building scalable full stack applications. Proficient in MERN stack development. Proven track record in delivering quality solutions, collaborating with cross-functional teams, and staying current with industry trends.",
       skills: [
         "ReactJS",
         "Ant Design",
