@@ -164,7 +164,7 @@ export const Bio = {
         "Angular",
         "Nest JS",
         "ReactJS",
-        "Node JS"
+        "Node JS",
         "HTML",
         "Tailwind CSS",
         "JavaScript",
