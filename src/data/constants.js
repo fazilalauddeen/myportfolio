@@ -24,8 +24,7 @@ export const Bio = {
         {
           name: "Angular Js",
           image:
-            "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fangular&psig=AOvVaw0d5paYXAQT_NGu6qugXvow&ust=1740469843903000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCIDVusvp24sDFQAAAAAdAAAAABAQ",
-        },
+"https://icons8.comundefined" },
         {
           name: "HTML",
           image: "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png",
