@@ -24,7 +24,7 @@ export const Bio = {
         {
           name: "Angular Js",
           image:
-            "https://camo.githubusercontent.com/8886130b3d8aba95dbdd7c4f9a41029606424cc06d1873c1ced87dd55a222fef/68747470733a2f2f616e67756c61722e696f2f6173736574732f696d616765732f6c6f676f732f616e67756c61722f616e67756c61722e737667",
+            "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fangular&psig=AOvVaw0d5paYXAQT_NGu6qugXvow&ust=1740469843903000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCIDVusvp24sDFQAAAAAdAAAAABAQ",
         },
         {
           name: "HTML",
@@ -45,6 +45,11 @@ export const Bio = {
           image:
             "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
         },
+           {
+          name: "Tailwind CSS",
+          image:
+            "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmwop.net%2Fblog%2F2022-04-26-tailwind.html&psig=AOvVaw0IZhog6kvb6tAHCnrBzQmB&ust=1740469987737000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCNikt4_q24sDFQAAAAAdAAAAABAE",
+        },
         {
           name: "Material UI",
           image:
@@ -58,6 +63,10 @@ export const Bio = {
         {
           name: "Node Js",
           image: "https://nodejs.org/static/images/logo.svg",
+        },
+           {
+          name: "Nest Js",
+          image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fnestjs%2Fnest&psig=AOvVaw3-qayJ-hmLkRkAQPRinoi9&ust=1740469934564000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCNjy7vTp24sDFQAAAAAdAAAAABAE",
         },
         {
           name: "Express Js",
@@ -77,7 +86,7 @@ export const Bio = {
         },
       
         {
-          name: "MySQL",
+          name: "PostgreSQL",
           image:
             "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
         },
@@ -128,19 +137,38 @@ export const Bio = {
       img: "https://i.imghippo.com/files/mhof91707732845.jpg",
       role: "Associate Engineer",
       company: "HTC Global Services",
-      date: "Feb 2022 - Till Date",
-      desc: "Passionate Full Stack developer with 2 years of experience in building scalable full stack applications. Proficient in MERN stack development. Proven track record in delivering quality solutions, collaborating with cross-functional teams, and staying current with industry trends.",
+      date: "Feb 2022 - Aug 2024",
+      desc: "Passionate full stack developer with experience in building scalable full-stack applications. Skilled in delivering high-quality solutions, collaborating with cross-functional teams, and staying up to date with industry trends.",
       skills: [
         "ReactJS",
+        "Angular",
+        "Node JS",
+        "MongoDB",
+        "JavaScript",
         "Ant Design",
         "Material UI",
         "HTML",
         "CSS",
-        "JavaScript",
         "Java",
         "Spring Boot",
+      ],
+    },
+      {
+      id: 1,
+      img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FPilotSimpleSoftware%2F&psig=AOvVaw3KzE8d9uFlAotz7c2cBSwq&ust=1740469692220000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCNCNvoDp24sDFQAAAAAdAAAAABAE",
+      role: "Full Stack Developer",
+      company: "Pilot Simple Software",
+      date: "Aug 2024 - Till Date",
+      desc: "Dedicated full stack developer with a focus on building efficient and scalable applications. Experienced in solving complex technical challenges, optimizing performance, and working collaboratively in dynamic team environments.",
+      skills: [
         "Angular",
-        "SmartCOMM",
+        "Nest JS",
+        "ReactJS",
+        "Node JS"
+        "HTML",
+        "Tailwind CSS",
+        "JavaScript",
+        "PostgreSQL",
       ],
     },
   ];
@@ -150,21 +178,18 @@ export const Bio = {
       id: 0,
       img: "https://i.imghippo.com/files/AllfT1707733009.jpg",
       school: "Aalim Muhammed Salegh College of Engineering, Chennai",
-      date: "Jul 2015 - Jun 2019",
       degree: "BE Computer Science and Engineering",
     },
     {
       id: 1,
       img: "https://i.imghippo.com/files/G7Ppp1707733159.jpg",
       school: "LK Higher Secondary School, Kayalpatnam",
-      date: "Jun 2014 - May 2015",
       degree: "HSC",
     },
     {
       id: 2,
       img: "https://i.imghippo.com/files/9kdjL1707733296.jpg",
       school: "Muhideen Matriculation Higher Secondary School, Kayalpatnam",
-      date: "Jun 2012 - May 2013",
       degree: "SSLC",
     },
   ];
